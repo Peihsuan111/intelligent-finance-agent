@@ -99,5 +99,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# to-do: 圓餅圖顯示still not work

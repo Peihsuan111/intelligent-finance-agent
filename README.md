@@ -76,3 +76,4 @@ An intelligent financial bot built with LangChain. It integrates multiple APIs t
 
 * LangChain Agent Doc: [LangChain Official Site](https://python.langchain.com/v0.1/docs/modules/agents/how_to/custom_agent/)
 * LangChain Tool List: [LangChain Official Tool List](https://python.langchain.com/v0.1/docs/integrations/tools/)
+* Agent Project Reference: [country-compass-ai](https://github.com/nirbar1985/country-compass-ai)
